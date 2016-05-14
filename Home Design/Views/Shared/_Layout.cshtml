@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage Design </title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href='https://fonts.googleapis.com/css?family=Cabin|Roboto:500|Lato' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Carrois+Gothic+SC|Arizonia' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <div class="container-fluid"></div>
+    <div class="navbar-collapse">
+
+        <header>
+
+            <div class="col-md-12 col">
+                <h1 class="head">H O M E P A G E</h1>
+                <h3 class="lowerHead">design</h3>
+            </div>
+    
+
+            <nav>
+                <ul>
+                    <li><a href="" class="current">ABOUT</a></li>
+                    <li><a href="">CITIES</a></li>
+                    <li><a href="">CONTACT</a></li>
+                </ul>
+            </nav>
+        </header>
+
+
+
+        @RenderBody()
+
+        <footer>
+            <div class="col-md-12">Footer</div>
+        </footer>
+
+    </div>
+
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+</body>
+</html>

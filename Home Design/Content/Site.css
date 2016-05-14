@@ -1,0 +1,122 @@
+﻿body {
+    text-align: center;
+    
+}
+header,footer,nav{display:block}
+header div{
+    height:150px;
+    background:gray;
+    text-align:center;
+}
+.head{
+    color:black;
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-size:40px;
+
+    }
+.lowerHead{
+ 
+    font-family: 'Arizonia', cursive;
+    font-size:30px;
+    color:black;
+
+
+}
+nav,footer{
+    clear:both;
+    height:30px;
+
+}
+nav ul{
+    margin:1px;
+    text-align:center;
+}
+nav li{
+    display:inline;
+    margin-right:45px;
+
+}
+.specialParagraph {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,;
+
+    font-size:x-small;
+}
+.square
+{
+    
+   min-height:348px;
+       
+}
+.Index
+   
+.container-fluid{
+    padding-left:0;
+    padding-right:0;
+    
+}
+.vertical-center{
+    align-items:center;
+    display:flex;
+    min-height:348px;
+
+}
+.img-responsive{
+    background-size:100% auto;
+
+}
+.col1{
+    text-align:left;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,;
+    color:aqua;
+    
+}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9{
+    padding-left:0;
+    padding-right:0;
+
+}
+.overlay {
+    margin:0 auto;
+    padding:10px;
+    background: #434647;
+    opacity:.8;
+    color: #fff;
+    width:50%
+}
+.mainpic{
+    background:url(http://universitystudyabroad.org/wp-content/uploads/2015/07/tuscany.jpg);
+    background-size:cover;
+    min-height:450px;
+
+
+   
+}
+.tuscanyMap{
+    background:url(http://www.windowsontuscany.com/wp-content/uploads/2013/09/Versilia.jpg);
+    min-height:450px;
+    background-size:cover;
+}
+.wedding{
+    background:url(http://www.windowsontuscany.com/wp-content/uploads/2014/11/171-348x348.jpg);
+ }
+.friend{
+    background:url(http://www.windowsontuscany.com/wp-content/uploads/2014/11/22-348x348.jpg);
+
+}
+.family{
+    background:url(http://www.windowsontuscany.com/wp-content/uploads/2014/11/122-348x348.jpg);
+
+}
+.paola{
+
+    background:url(http://www.windowsontuscany.com/wp-content/uploads/2014/11/211-348x348.jpg);
+
+}
+.villa{
+     background:url(http://www.windowsontuscany.com/wp-content/uploads/2014/11/2-348x348.jpg);
+ }
+.gigli{
+    background:url(http://www.windowsontuscany.com/wp-content/uploads/2014/11/422-348x348.jpg);
+    
+
+}
