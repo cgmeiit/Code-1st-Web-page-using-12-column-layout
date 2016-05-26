@@ -104,3 +104,56 @@ C:\Users\WeCanCodeIT\Documents\Home Design\Home Design\bin\Newtonsoft.Json.xml
 C:\Users\WeCanCodeIT\Documents\Home Design\Home Design\obj\Debug\Home Design.csprojResolveAssemblyReference.cache
 C:\Users\WeCanCodeIT\Documents\Home Design\Home Design\obj\Debug\Home Design.dll
 C:\Users\WeCanCodeIT\Documents\Home Design\Home Design\obj\Debug\Home Design.pdb
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\ApplicationInsights.config
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\csc.exe
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\vbc.exe
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\VBCSCompiler.exe
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Home Design.dll.config
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Home Design.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Home Design.pdb
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Antlr3.Runtime.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.Web.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.ApplicationInsights.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Newtonsoft.Json.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.Helpers.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.Mvc.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.Optimization.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.Razor.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.WebPages.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.WebPages.Razor.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\WebGrease.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.Web.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.ApplicationInsights.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.Helpers.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.Mvc.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.Optimization.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.Razor.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.WebPages.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\System.Web.WebPages.Razor.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Antlr3.Runtime.pdb
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\bin\Newtonsoft.Json.xml
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\obj\Debug\Home Design.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\obj\Debug\Home Design.dll
+C:\Users\WeCanCodeIT\Documents\RV\Home Design\Home Design\obj\Debug\Home Design.pdb
